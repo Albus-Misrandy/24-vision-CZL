@@ -1,0 +1,3 @@
+/home/albus/基础任务/build/CMakeFiles/rebuild_cache.dir
+/home/albus/基础任务/build/CMakeFiles/edit_cache.dir
+/home/albus/基础任务/build/CMakeFiles/Basic.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/albus/基础任务/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/Basic.dir/basicAssignment.cpp.o -c /home/albus/基础任务/basicAssignment.cpp",
+  "file": "/home/albus/基础任务/basicAssignment.cpp"
+}
+]
