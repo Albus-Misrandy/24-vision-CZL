@@ -57,3 +57,5 @@ for i in range (epoch):
     scheduler.step()
 
 print("DONE!")
+
+torch.save(net.state_dict, "./NetworkModel/vgg16_best_model.pth")

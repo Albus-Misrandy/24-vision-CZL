@@ -12,7 +12,7 @@ learning_rate = 0.001
 optimizer=torch.optim.Adam(net.parameters(),lr=learning_rate)
 scheduler = lr_scheduler.StepLR(optimizer,step_size=10,gamma=0.1)
 
-epoch = 5
+epoch = 2
 
 train_acc_lst,test_acc_lst = [],[]
 train_loss_lst,test_loss_lst = [],[]
